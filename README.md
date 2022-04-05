@@ -2,6 +2,9 @@
 
 > Frontend application to be connected wih [backend test](https://github.com/JesusPuga/destacame)
 
+## Prerequisites
+- npm 6.14.14
+
 ## Build Setup
 
 ``` bash
